@@ -1,0 +1,10 @@
+Deskripsi game : Game Dodge the Virus ini menceritakan bahwa di masa depan, bumi diambang kehancuran oleh sebuah virus. Hingga
+		 akhirnya tersisa satu manusia saja di bumi. Game berbasis android ini memiliki misi untuk menghindar dari 
+                 virus tersebuk sebanyak mungkin untuk mencapai high score. Pada project game ini terdapat tiga anggota dengan
+                 pembagian tugas sebagai berikut : 
+                 (1) Nyoman Wahyu : Game assets dan Game Tester
+                 (2) Nugroho Wicaksono : Game Programmer
+                 (3) PQ Aristyawan : Game assets 
+
+
+

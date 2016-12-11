@@ -1,0 +1,2 @@
+Instruksi game : Game ini adalah game untuk berlomba - lomba mendapatkan high score dengan cara menghindar dari virusnya dengan
+                 kontroler rotation / tilt pada android. Semakin lama bermain maka game speednya akan semakin bertambah.
